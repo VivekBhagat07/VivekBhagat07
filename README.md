@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VivekBhagat07
+- 👋 Hi, I’m Vivek Bhagat
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning web devlopment
+- 🌱 I’m currently working & this is my hobby
 - 📫 How to reach me @VivekBhagat in Telegram
 
 <!---
